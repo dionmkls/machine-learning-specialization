@@ -27,6 +27,6 @@
   - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/dionmkls/machine-learning-specialization/tree/main/C3_Unsupervised%20Learning) <details>
     <summary>Show Certificate</summary><p>
 
-      [<img src="https://www.coursera.org/account/accomplishments/certificate/R69N9ZAZKYDS"/>](https://coursera.org/verify/R69N9ZAZKYDS)
+      [<img src="https://github.com/dionmkls/machine-learning-specialization/blob/main/misc/certificates/C3.jpg"/>](https://coursera.org/verify/R69N9ZAZKYDS)
 
   </p></details>
