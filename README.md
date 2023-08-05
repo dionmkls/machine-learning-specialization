@@ -1,7 +1,7 @@
 # Machine Learning Specialization
 
 ## Instructed by [<img src="https://github.com/dionmkls/machine-learning-specialization/blob/main/misc/PROFESSOR-ANDREW-NG.png" width="20"/> Andrew Ng](https://laurencemoroney.com/about.html)
-## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
+## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.andrewng.org/)
 
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
