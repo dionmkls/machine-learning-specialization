@@ -1,6 +1,6 @@
 # Machine Learning Specialization by Stanford
 
-## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
+## Instructed by [<img src="https://github.com/dionmkls/machine-learning-specialization/blob/main/misc/PROFESSOR-ANDREW-NG.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 ## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
 
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
